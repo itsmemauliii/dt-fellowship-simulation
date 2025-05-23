@@ -4,6 +4,6 @@ Through this simulation, I learned that **prompt design shapes campaign outcomes
 
 Analyzing CTR and views taught me to read metrics as signals for message-market fit rather than just numbers. High views with low CTR point to a headline or tone issue, while low views with high CTR highlight distribution opportunities.
 
-My mindset going forward will be to approach messaging as an iterative, data-driven process — not relying on gut feeling but testing hypotheses and refining prompts based on real audience responses. I will treat AI as a disciplined co-pilot, ensuring prompts are precise to extract meaningful, persuasive content.
+My mindset going forward will be to approach messaging as an iterative, data-driven process not relying on gut feeling but testing hypotheses and refining prompts based on real audience responses. I will treat AI as a disciplined co-pilot, ensuring prompts are precise to extract meaningful, persuasive content.
 
 Ultimately, building resonance between message and market demands strategic reflection, creative engineering of language, and relentless focus on the user’s mindset.
